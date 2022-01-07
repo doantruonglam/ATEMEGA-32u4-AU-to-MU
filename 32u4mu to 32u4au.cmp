@@ -1,0 +1,19 @@
+Cmp-Mod V01 Created by PcbNew   date = 9/1/2021 10:13:46 AM
+
+BeginCmp
+TimeStamp = 604662B8
+Path = /60467231
+Reference = U2;
+ValeurCmp = ATmega32U4-MU;
+IdModule  = Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60466266
+Path = /60465DA2
+Reference = U1;
+ValeurCmp = ATmega32U4-AU;
+IdModule  = Package_QFP:TQFP-44_10x10mm_P0.8mm;
+EndCmp
+
+EndListe
